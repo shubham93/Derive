@@ -1,0 +1,9 @@
+<div  class="chatform">
+  <div class="welcome-message">
+      <app-welocome-message></app-welocome-message>
+  </div>
+  <div class="user-messages">
+      <app-message-list [messages]="messages"></app-message-list>
+  </div>
+  <app-message-form [message]="message" [messages]="messages"></app-message-form>
+</div>

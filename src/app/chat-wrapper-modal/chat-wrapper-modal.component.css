@@ -1,0 +1,16 @@
+.chatform{
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.welcome-message {
+  float: left;
+  display: block;
+}
+
+.user-messages {
+  display: block;
+  padding-top: 40px;
+  padding-left: 350px;
+}

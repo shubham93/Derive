@@ -1,0 +1,10 @@
+.btn-primary {
+  display: inline-block;
+  background-color: green;
+}
+
+.form-control {
+  display: inline-block;
+  width: 400px;
+  margin-right: 10px;
+}
